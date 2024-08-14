@@ -1,0 +1,305 @@
+#contractor {
+	/* margin-top: 5%; */
+	margin-bottom: 10%;
+	padding: 5%;
+}
+
+.contractor__banner {
+	background-image: url("../../assets/images/contractor_banner.png");
+	background-size: 100% 100%;
+	background-repeat: "no-repeat" !important;
+	background-color: #09797a !important;
+	border-radius: 35px !important;
+	margin: 0 !important;
+}
+
+.contractor__banner__left {
+	width: 55%;
+	padding: 0 2.5%;
+}
+
+.banner__left__heading {
+	font-size: 33px !important;
+	max-width: 550px;
+	line-height: 41px !important;
+	color: #ffffff;
+}
+
+.banner__left__subheading {
+	max-width: 550px;
+	font-size: 18px !important;
+	line-height: 30px !important;
+	color: #ffffff;
+}
+
+.contractor__h2 > * {
+	font-weight: 700 !important;
+	font-size: 24px !important;
+	line-height: 26px !important;
+	letter-spacing: -0.02em !important;
+	color: #2d3845;
+}
+
+.contractor__top__area {
+	font-weight: 700 !important;
+	font-size: 35px !important;
+	line-height: 36px !important;
+	color: #09797a;
+}
+
+.filter__buttons {
+	margin: 0 auto 20px;
+	display: flex;
+	flex-wrap: wrap;
+}
+
+.filter__buttons > * {
+	font-size: smaller !important;
+	margin: auto 5px 10px 5px !important;
+	padding: 10px 0 !important;
+	color: #a9acb1 !important;
+	background-color: #f0f1f2 !important;
+	width: 225px !important;
+	flex: 1;
+}
+
+.filter__area__heading {
+	font-weight: bolder !important;
+	line-height: 30px !important;
+	color: #0e0e2c !important;
+}
+
+.filter__area__button {
+	font-weight: bolder !important;
+	line-height: 30px !important;
+	color: #0e0e2c !important;
+	background-color: inherit !important;
+	text-transform: uppercase !important;
+	cursor: pointer;
+	padding: 5px 20px;
+	border: 1px solid navy;
+}
+
+.filter__area__button:hover {
+	background: #e0f0ee !important;
+	box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.06) !important;
+	border-radius: 5px !important;
+	color: #09797a !important;
+}
+
+.filter__area {
+	margin-top: 10px;
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+	align-items: center;
+	padding: 0 2%;
+}
+
+.filter__area__container {
+	width: 70%;
+}
+
+.filter__result {
+	display: flex;
+	flex-wrap: wrap;
+}
+
+.filter__result__button {
+	font-size: smaller !important;
+	margin: auto 10px 10px !important;
+	text-transform: capitalize !important;
+	background: #e0f0ee !important;
+	box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.06) !important;
+	border-radius: 5px !important;
+	color: #09797a !important;
+}
+
+.filter__result__button span {
+	margin-right: 8px;
+}
+
+.selected__filter {
+	background: #1ccccd !important;
+	color: #ffffff !important;
+}
+
+.selected__filter__span {
+	display: none;
+}
+
+.contractor__table__head {
+	padding: 20px 20px 20px 30px !important;
+	font-weight: bolder !important;
+	font-size: larger !important;
+	line-height: 19px;
+	max-width: 150px;
+	width: 150px;
+	position: relative;
+}
+
+.head__no__highlight {
+	background: #f0f1f2;
+}
+
+.filter__highlight {
+	background-color: #1ccccd !important;
+	color: #ffffff !important;
+}
+
+.sort__positive__direction {
+	color: #ffffff !important;
+}
+
+.sort__negative__direction {
+	color: #09797a !important;
+}
+
+.icon__no__highlight {
+	color: #d4d4d4;
+}
+
+.table__icon__container {
+	position: absolute;
+	top: 30%;
+	right: 0;
+}
+
+.table__head__icon {
+	position: relative;
+	width: 100%;
+}
+
+.icon__holder__top {
+	position: absolute;
+	right: 0;
+	top: 0;
+}
+
+.icon__holder__bottom {
+	position: absolute;
+	right: 0;
+	top: 10px;
+}
+
+.contractor__table__row {
+	padding: 30px 10px !important;
+}
+
+.contractor__cell a {
+	font-weight: 600 !important;
+	color: #0e0e2c !important;
+}
+
+.table__cell__wrapper {
+	display: flex;
+	width: 100%;
+	justify-content: space-between;
+}
+
+.table__text {
+	font-weight: 700 !important;
+	font-size: 16px !important;
+	line-height: 19px !important;
+	text-transform: capitalize !important;
+}
+
+.table__icon {
+	position: relative;
+	height: 100%;
+}
+
+.table__icon__up {
+	position: absolute;
+	top: 0;
+}
+
+.table__icon__down {
+	position: absolute;
+	bottom: 0 !important;
+}
+
+.contractor__detail__head {
+	display: flex;
+	border-bottom: 0.5px solid #e0f0ee;
+}
+
+.contractor__detail__head__left {
+	width: 50%;
+	padding: 1%;
+}
+
+.contractor__detail__head__right {
+	width: 50%;
+	border-left: 0.5px solid #e0f0ee;
+	padding: 1%;
+}
+
+.card__aligner {
+	text-align: center;
+}
+
+.detail__card__container {
+	padding: 0 5%;
+	display: flex;
+	flex-wrap: wrap;
+}
+
+.detail__card {
+	background: #f7fafc !important;
+	width: 320px;
+	height: 150px;
+	position: relative;
+	margin: 20px;
+}
+
+.detail__card__text {
+	margin: 15px auto 0 !important;
+	padding: 10px 50px 0 20px;
+	text-align: left;
+	font-weight: 700 !important;
+	text-transform: capitalize;
+	color: #09797a !important;
+}
+
+.detail__action__area {
+	position: absolute;
+	bottom: 5px;
+	right: 5px;
+}
+
+.detail__action__area > * {
+	color: #1ccccd !important;
+}
+
+.detail__head__right,
+.contractor__detail__head__left {
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+}
+
+.contractor__detail__head__left > * {
+	margin-left: 5px !important;
+	padding-top: 10px;
+}
+
+.detail__head__right > * {
+	margin-left: 10px !important;
+	padding-top: 10px;
+}
+
+.detail__recent__project {
+	font-size: medium !important;
+	font-weight: bold !important;
+	text-transform: capitalize;
+	color: #09797a;
+}
+
+.detail__recent__project__date {
+	color: #09797a;
+}
+
+.hover-state:hover {
+	cursor: pointer;
+}

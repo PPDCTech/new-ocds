@@ -1,0 +1,79 @@
+.ppdc-green {
+	color: #09797a;
+}
+.ppdc-teal {
+	color: #1ccccd;
+}
+
+.projects__banner {
+	background-image: url("../../assets/images/projects_banner.png");
+	background-size: 100% 100%;
+	background-repeat: "no-repeat" !important;
+	border-radius: 35px !important;
+	margin: 0 !important;
+	padding: 0 20px;
+    box-shadow: none !important;
+}
+
+.banner__card {
+	font-weight: 700 !important;
+}
+
+.table__header {
+	font-weight: 700 !important;
+	font-size: 30px !important;
+	line-height: 36px !important;
+	color: #09797a;
+}
+
+.project__filter__buttons {
+	display: flex;
+	flex-direction: row;
+	justify-content: space-around;
+}
+
+.project__filter__buttons > * {
+	font-size: 14px !important;
+	padding: 10px 30px !important;
+	color: #a9acb1 !important;
+	background-color: #f0f1f2 !important;
+	text-transform: capitalize !important;
+}
+
+.project__filter__buttons > *:hover {
+	color: #09797a !important;
+}
+
+.projects__table__head {
+	background: #f0f1f2;
+	padding: 16px !important;
+	max-width: 170px;
+	width: 170px;
+	position: relative;
+	font-size: 19px;
+}
+
+.MuiButtonBase-root.MuiPaginationItem-root.Mui-selected {
+	color: #fff;
+	background: #0e0e2c;
+}
+
+/* .MuiTableCell-root.MuiTableCell-body > * {
+    display: inline !important;
+} */
+
+/* MuiButtonBase-root MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeSmall MuiButton-containedSizeSmall css-11qr2p8-MuiButtonBase-root-MuiButton-root */
+
+#quick__action
+	.MuiButtonBase-root.MuiButton-root.MuiButton-contained.MuiButton-containedPrimary {
+	padding: 14px;
+	background-color: #fff !important;
+	color: #09797a;
+	font-size: 14;
+	text-transform: capitalize;
+	width: 29vw;
+}
+
+#quick__action .MuiButtonBase-root.MuiButton-root.MuiButton-contained:hover {
+	background: #f0f1f2 !important;
+}

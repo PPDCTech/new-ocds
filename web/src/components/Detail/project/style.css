@@ -1,0 +1,168 @@
+.project__details__upper__layer {
+	display: flex;
+	justify-content: space-between;
+	background-color: #f7fafc !important;
+	border-radius: 5px;
+	padding: 30px 20px;
+}
+
+.project__middle__layer__card {
+	background-color: #f7fafc !important;
+	width: 270px !important;
+	padding: 5px 0;
+	height: 135px;
+	max-height: 135px;
+	position: relative;
+}
+
+.project__middle__layer__card:nth-child(2) {
+	margin: auto 10px;
+}
+
+.project__middle__layer__card__heading {
+	padding: 10px 20px;
+	margin: auto 20px auto;
+	font-style: normal;
+	font-weight: 700;
+	font-size: 18.6136px !important;
+	line-height: 25px;
+	color: #a0a0a0;
+}
+
+.project__middle__layer__card__content {
+	font-style: normal;
+	font-weight: 900 !important;
+	font-size: 27.9205px !important;
+	line-height: 33px;
+	position: absolute;
+}
+
+.project__amount {
+	color: #09797a;
+	top: 60%;
+	left: 20px;
+}
+
+.project__percent {
+	color: #d15050;
+	top: 60%;
+	left: 60px;
+}
+
+.project__details__lower__layer_top {
+	display: flex;
+	flex-wrap: wrap;
+	flex-direction: row;
+	border: 0.95px solid #e0f0ee;
+}
+
+.project__details__lower__layer_top >* {
+	flex: 1;
+}
+
+.project__planning {
+	height: 48.13px;
+	background: #1ccccd;
+	color: #ffffff;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	position: relative;
+	border: 0.95px solid #e0f0ee;
+}
+
+.project__tender {
+	height: 48.13px;
+	background: #f7fafc;
+	color: #a0a0a0;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	position: relative;
+	border: 0.95px solid #e0f0ee;
+}
+
+.tender__point {
+	width: 0;
+	height: 0;
+	border-top: 7.5px solid transparent;
+	border-left: 10px solid #1ccccd;
+	border-bottom: 7.5px solid transparent;
+	position: absolute;
+	top: 35%;
+	left: -2px;
+	transform: translate(50% 50%);
+	z-index: 9;
+}
+
+.project__award {
+	height: 48.13px;
+	background: #f7fafc;
+	color: #a0a0a0;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	position: relative;
+	border: 0.95px solid #e0f0ee;
+}
+
+.award__point {
+	width: 0;
+	height: 0;
+	border-top: 7.5px solid transparent;
+	border-left: 10px solid #ededed;
+	border-bottom: 7.5px solid transparent;
+	position: absolute;
+	top: 35%;
+	left: -2px;
+	transform: translate(50% 50%);
+	z-index: 9;
+}
+
+.project__contract {
+	height: 48.13px;
+	background: #f7fafc;
+	color: #a0a0a0;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	position: relative;
+	border: 0.95px solid #e0f0ee;
+}
+
+.contract__point {
+	width: 0;
+	height: 0;
+	border-top: 7.5px solid transparent;
+	border-left: 10px solid #ededed;
+	border-bottom: 7.5px solid transparent;
+	position: absolute;
+	top: 35%;
+	left: -2px;
+	transform: translate(50% 50%);
+	z-index: 9;
+}
+
+.project__implementation {
+	height: 48.13px;
+	background: #f7fafc;
+	color: #a0a0a0;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	position: relative;
+	border: 0.95px solid #e0f0ee;
+}
+
+.implementation__point {
+	width: 0;
+	height: 0;
+	border-top: 7.5px solid transparent;
+	border-left: 10px solid #ededed;
+	border-bottom: 7.5px solid transparent;
+	position: absolute;
+	top: 35%;
+	left: -2px;
+	transform: translate(50% 50%);
+	z-index: 9;
+}

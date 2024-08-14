@@ -1,0 +1,58 @@
+.mda__details__upper__layer {
+	display: flex;
+	justify-content: space-between;
+	border-radius: 5px;
+	border-bottom: 1px solid #f7fafc;
+	padding: 20px 5%;
+}
+
+.mda__heading {
+	font-weight: 500 !important;
+	font-size: 16px !important;
+	line-height: 140%;
+	text-transform: capitalize;
+	color: #a9acb1;
+}
+
+.mda__subheading {
+	font-weight: 500 !important;
+	font-size: 24px !important;
+	line-height: 30px;
+	color: #09797a;
+}
+
+.mda__card__container {
+	display: flex;
+	flex-wrap: wrap;
+	padding: 0 4%;
+}
+
+.mda__lower__layer__card{
+	width: 260px;
+	border: 1px solid #F7FAFC;
+	max-width: 260px;
+	height: 137.86px;
+	flex: 1 1 160px;
+	margin: 7px;
+	position: relative;
+	background: #f7fafc !important;
+}
+
+.mda__lower__layer__card__action {
+	position: absolute;
+	bottom: 5px;
+	left: 5px;
+	width: 95%;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+
+.mda__lower__layer__card__para {
+	padding: 15px 30px 0 10px !important;
+	font-weight: 700 !important;
+	font-size: 16px;
+	line-height: 19px;
+	text-transform: capitalize;
+	color: #09797a;
+}

@@ -1,0 +1,347 @@
+[
+	{
+		"id": 1,
+		"contractor": "Birding Intenational Ltd",
+		"contract_amount_paid": 943480434,
+		"top_mda_serviced": "Work & Energy Development (MoWED)",
+		"number_of_mdas_serviced": 3,
+		"number_of_projects_awarded": 8,
+		"most_recent_project_awarded": "Procurement of Consultancy Service for implementation of the State integrated ...",
+		"recent_projects": [
+			{
+				"id": 211,
+				"title": "Construction Of Roads Within And Around Ribadu Square and Gashaka"
+			},
+			{
+				"id": 319,
+				"title": "Procurement Of 2,000 Units Of First Aid Boxes(Lot 10) In Respect Of..."
+			},
+			{
+				"id": 307,
+				"title": "Procurement Of Consultancy Service For Implementation Of The State Integrated..."
+			}
+		]
+	},
+	{
+		"id": 2,
+		"contractor": "Global Vazhili Investment Ltd",
+		"contract_amount_paid": 450000000,
+		"top_mda_serviced": "Finance & Budget (MoFB)",
+		"number_of_mdas_serviced": 1,
+		"number_of_projects_awarded": 2,
+		"most_recent_project_awarded": "Construction and installation of 30Nos Solas powered street light in Fufore LG",
+		"recent_projects": [
+			{
+				"id": 21894781,
+				"title": "Construction Of Roads Within And Around Ribadu Square and Gashaka"
+			},
+			{
+				"id": 38047819,
+				"title": "Procurement Of 2,000 Units Of First Aid Boxes(Lot 10) In Respect Of..."
+			},
+			{
+				"id": 30804787,
+				"title": "Procurement Of Consultancy Service For Implementation Of The State Integrated..."
+			}
+		]
+	},
+	{
+		"id": 3,
+		"contractor": "Jaigooni Engineering Ltd",
+		"contract_amount_paid": 743560222,
+		"top_mda_serviced": "Health & Human Services (MOHHS)",
+		"number_of_mdas_serviced": 1,
+		"number_of_projects_awarded": 3,
+		"most_recent_project_awarded": "Construction of ADGIS Center and perimeter block wall fencing",
+		"recent_projects": [
+			{
+				"id": 210,
+				"title": "Construction Of Roads Within And Around Ribadu Square and Gashaka"
+			},
+			{
+				"id": 310,
+				"title": "Procurement Of 2,000 Units Of First Aid Boxes(Lot 10) In Respect Of..."
+			},
+			{
+				"id": 300,
+				"title": "Procurement Of Consultancy Service For Implementation Of The State Integrated..."
+			}
+		]
+	},
+	{
+		"id": 4,
+		"contractor": "Samparaco Nig. Ltd",
+		"contract_amount_paid": 3924780624,
+		"top_mda_serviced": "works & Energy Development (MoWED)",
+		"number_of_mdas_serviced": 2,
+		"number_of_projects_awarded": 11,
+		"most_recent_project_awarded": "Construction of Mbamba Street, Yola south",
+		"recent_projects": [
+			{
+				"id": 313,
+				"title": "Construction Of Mbamba Street, Yola South"
+			},
+			{
+				"id": 310,
+				"title": "Renovation Of Bekaji PHCC Jimeta, Yola North"
+			},
+			{
+				"id": 303,
+				"title": "Renovation Of PHCCs Gamu, Ganye LGA"
+			}
+		]
+	},
+	{
+		"id": 5,
+		"contractor": "S&M Project Consult",
+		"contract_amount_paid": 600660326,
+		"top_mda_serviced": "Adamawa State Urban Planning and Development Authority (ADSUPDA)",
+		"number_of_mdas_serviced": 1,
+		"number_of_projects_awarded": 3,
+		"most_recent_project_awarded": "Completion of the electrification of Ganye, Toungo Town, Kiri & Gamu Villages",
+		"recent_projects": [
+			{
+				"id": 111,
+				"title": "Construction Of Roads Within And Around Ribadu Square and Gashaka"
+			},
+			{
+				"id": 109,
+				"title": "Procurement Of 2,000 Units Of First Aid Boxes(Lot 10) In Respect Of..."
+			},
+			{
+				"id": 407,
+				"title": "Procurement Of Consultancy Service For Implementation Of The State Integrated..."
+			}
+		]
+	},
+	{
+		"id": 6,
+		"contractor": "Birding Intenational Ltd",
+		"contract_amount_paid": 943480434,
+		"top_mda_serviced": "Work & Energy Development (MoWED)",
+		"number_of_mdas_serviced": 3,
+		"number_of_projects_awarded": 8,
+		"most_recent_project_awarded": "Procurement of Consultancy Service for implementation of the State integrated ...",
+		"recent_projects": [
+			{
+				"id": 511,
+				"title": "Construction Of Roads Within And Around Ribadu Square and Gashaka"
+			},
+			{
+				"id": 315,
+				"title": "Procurement Of 2,000 Units Of First Aid Boxes(Lot 10) In Respect Of..."
+			},
+			{
+				"id": 301,
+				"title": "Procurement Of Consultancy Service For Implementation Of The State Integrated..."
+			}
+		]
+	},
+	{
+		"id": 7,
+		"contractor": "Global Vazhili Investment Ltd",
+		"contract_amount_paid": 450000000,
+		"top_mda_serviced": "Finance & Budget (MoFB)",
+		"number_of_mdas_serviced": 1,
+		"number_of_projects_awarded": 2,
+		"most_recent_project_awarded": "Construction and installation of 30Nos Solas powered street light in Fufore LG",
+		"recent_projects": [
+			{
+				"id": 201,
+				"title": "Construction Of Roads Within And Around Ribadu Square and Gashaka"
+			},
+			{
+				"id": 318,
+				"title": "Procurement Of 2,000 Units Of First Aid Boxes(Lot 10) In Respect Of..."
+			},
+			{
+				"id": 356,
+				"title": "Procurement Of Consultancy Service For Implementation Of The State Integrated..."
+			}
+		]
+	},
+	{
+		"id": 8,
+		"contractor": "Jaigooni Engineering Ltd",
+		"contract_amount_paid": 743560222,
+		"top_mda_serviced": "Health & Human Services (MOHHS)",
+		"number_of_mdas_serviced": 1,
+		"number_of_projects_awarded": 3,
+		"most_recent_project_awarded": "Construction of ADGIS Center and perimeter block wall fencing",
+		"recent_projects": [
+			{
+				"id": 8982211,
+				"title": "Construction Of Roads Within And Around Ribadu Square and Gashaka"
+			},
+			{
+				"id": 318379,
+				"title": "Procurement Of 2,000 Units Of First Aid Boxes(Lot 10) In Respect Of..."
+			},
+			{
+				"id": 8047307,
+				"title": "Procurement Of Consultancy Service For Implementation Of The State Integrated..."
+			}
+		]
+	},
+	{
+		"id": 9,
+		"contractor": "Samparaco Nig. Ltd",
+		"contract_amount_paid": 3924780624,
+		"top_mda_serviced": "works & Energy Development (MoWED)",
+		"number_of_mdas_serviced": 2,
+		"number_of_projects_awarded": 11,
+		"most_recent_project_awarded": "Construction of Mbamba Street, Yola south",
+		"recent_projects": [
+			{
+				"id": 21,
+				"title": "Construction Of Roads Within And Around Ribadu Square and Gashaka"
+			},
+			{
+				"id": 3109,
+				"title": "Procurement Of 2,000 Units Of First Aid Boxes(Lot 10) In Respect Of..."
+			},
+			{
+				"id": 3007,
+				"title": "Procurement Of Consultancy Service For Implementation Of The State Integrated..."
+			}
+		]
+	},
+	{
+		"id": 10,
+		"contractor": "S&M Project Consult",
+		"contract_amount_paid": 600660326,
+		"top_mda_serviced": "Adamawa State Urban Planning and Development Authority (ADSUPDA)",
+		"number_of_mdas_serviced": 1,
+		"number_of_projects_awarded": 3,
+		"most_recent_project_awarded": "Completion of the electrification of Ganye, Toungo Town, Kiri & Gamu Villages",
+		"recent_projects": [
+			{
+				"id": 21100,
+				"title": "Construction Of Roads Within And Around Ribadu Square and Gashaka"
+			},
+			{
+				"id": 31900,
+				"title": "Procurement Of 2,000 Units Of First Aid Boxes(Lot 10) In Respect Of..."
+			},
+			{
+				"id": 30700,
+				"title": "Procurement Of Consultancy Service For Implementation Of The State Integrated..."
+			}
+		]
+	},
+	{
+		"id": 11,
+		"contractor": "Birding Intenational Ltd",
+		"contract_amount_paid": 943480434,
+		"top_mda_serviced": "Work & Energy Development (MoWED)",
+		"number_of_mdas_serviced": 3,
+		"number_of_projects_awarded": 8,
+		"most_recent_project_awarded": "Procurement of Consultancy Service for implementation of the State integrated ...",
+		"recent_projects": [
+			{
+				"id": 21991,
+				"title": "Construction Of Roads Within And Around Ribadu Square and Gashaka"
+			},
+			{
+				"id": 31449,
+				"title": "Procurement Of 2,000 Units Of First Aid Boxes(Lot 10) In Respect Of..."
+			},
+			{
+				"id": 30887,
+				"title": "Procurement Of Consultancy Service For Implementation Of The State Integrated..."
+			}
+		]
+	},
+	{
+		"id": 12,
+		"contractor": "Global Vazhili Investment Ltd",
+		"contract_amount_paid": 450000000,
+		"top_mda_serviced": "Finance & Budget (MoFB)",
+		"number_of_mdas_serviced": 1,
+		"number_of_projects_awarded": 2,
+		"most_recent_project_awarded": "Construction and installation of 30Nos Solas powered street light in Fufore LG",
+		"recent_projects": [
+			{
+				"id": 210111,
+				"title": "Construction Of Roads Within And Around Ribadu Square and Gashaka"
+			},
+			{
+				"id": 31119,
+				"title": "Procurement Of 2,000 Units Of First Aid Boxes(Lot 10) In Respect Of..."
+			},
+			{
+				"id": 30117,
+				"title": "Procurement Of Consultancy Service For Implementation Of The State Integrated..."
+			}
+		]
+	},
+	{
+		"id": 13,
+		"contractor": "Jaigooni Engineering Ltd",
+		"contract_amount_paid": 743560222,
+		"top_mda_serviced": "Health & Human Services (MOHHS)",
+		"number_of_mdas_serviced": 1,
+		"number_of_projects_awarded": 3,
+		"most_recent_project_awarded": "Construction of ADGIS Center and perimeter block wall fencing",
+		"recent_projects": [
+			{
+				"id": 215551,
+				"title": "Construction Of Roads Within And Around Ribadu Square and Gashaka"
+			},
+			{
+				"id": 313339,
+				"title": "Procurement Of 2,000 Units Of First Aid Boxes(Lot 10) In Respect Of..."
+			},
+			{
+				"id": 304557,
+				"title": "Procurement Of Consultancy Service For Implementation Of The State Integrated..."
+			}
+		]
+	},
+	{
+		"id": 14,
+		"contractor": "Samparaco Nig. Ltd",
+		"contract_amount_paid": 3924780624,
+		"top_mda_serviced": "works & Energy Development (MoWED)",
+		"number_of_mdas_serviced": 2,
+		"number_of_projects_awarded": 11,
+		"most_recent_project_awarded": "Construction of Mbamba Street, Yola south",
+		"recent_projects": [
+			{
+				"id": 277711,
+				"title": "Construction Of Roads Within And Around Ribadu Square and Gashaka"
+			},
+			{
+				"id": 3190442,
+				"title": "Procurement Of 2,000 Units Of First Aid Boxes(Lot 10) In Respect Of..."
+			},
+			{
+				"id": 3070989,
+				"title": "Procurement Of Consultancy Service For Implementation Of The State Integrated..."
+			}
+		]
+	},
+	{
+		"id": 15,
+		"contractor": "S&M Project Consult",
+		"contract_amount_paid": 600660326,
+		"top_mda_serviced": "Adamawa State Urban Planning and Development Authority (ADSUPDA)",
+		"number_of_mdas_serviced": 1,
+		"number_of_projects_awarded": 3,
+		"most_recent_project_awarded": "Completion of the electrification of Ganye, Toungo Town, Kiri & Gamu Villages",
+		"recent_projects": [
+			{
+				"id": 2193591,
+				"title": "Construction Of Roads Within And Around Ribadu Square and Gashaka"
+			},
+			{
+				"id": 317489,
+				"title": "Procurement Of 2,000 Units Of First Aid Boxes(Lot 10) In Respect Of..."
+			},
+			{
+				"id": 307857,
+				"title": "Procurement Of Consultancy Service For Implementation Of The State Integrated..."
+			}
+		]
+	}
+]

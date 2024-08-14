@@ -1,0 +1,51 @@
+.MuiDialog-paper {
+	background-color: transparent !important;
+	box-shadow: none !important;
+}
+
+.modal__close__btn {
+	position: absolute !important;
+	font-size: 0.8rem;
+	font-weight: bold;
+	font-size: large;
+	border: 0.15rem solid white;
+	height: 2rem;
+	width: 2rem;
+	color: #ffffff;
+	position: absolute;
+	top: 5px;
+	right: 3% !important;
+	border-radius: 50% !important;
+	background: none;
+}
+
+.modal__close__btn:hover {
+	cursor: pointer;
+}
+
+.modal__content {
+	background: white;
+	position: relative;
+	margin: auto;
+	border-radius: 20px;
+	padding: 0 3%;
+}
+
+.modal__header {
+	border-radius: 8px 8px 0 0;
+	display: flex;
+	justify-content: space-between;
+	padding: 0.3rem;
+}
+
+.modal__header__text {
+	font-weight: 600 !important;
+	font-size: 30px !important;
+	line-height: 37px !important;
+	color: #09797a !important;
+	margin: 2rem 0 1.5rem 2rem !important;
+}
+
+.modal__body {
+	overflow-x: hidden;
+}

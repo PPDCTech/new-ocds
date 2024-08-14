@@ -1,0 +1,52 @@
+.info__hero {
+	background-image: linear-gradient(
+			302.7deg,
+			rgba(9, 121, 122, 0.89) 46.41%,
+			rgba(23, 39, 26, 0.65) 139.3%
+		),
+		url("../../assets/images/Adamawa-new-bg.png");
+	background-size: 100% 100% !important;
+	background-repeat: "no-repeat" !important;
+	background-color: #09797a !important;
+	background-position: 50% 50%;
+	position: relative;
+	color: #ffffff;
+	height: 70vh;
+	padding-top: 8%;
+	padding-left: 5%;
+}
+
+.info__overlay {
+	width: 100%;
+	margin: 1.5% auto;
+	position: absolute;
+	top: 55%;
+	/* left: 8%; */
+}
+
+.info__overlay__heading {
+	font-weight: 700;
+	font-size: 38px !important;
+	padding: 0;
+}
+
+.info__overlay__paragraph {
+	width: 60%;
+	margin: -2.5rem 0 auto;
+	font-weight: 400;
+	font-size: 25.47px;
+}
+
+.info__search__bar {
+	margin-bottom: 70px;
+}
+
+.line {
+	margin-left: 10px;
+	display: inline-block;
+	width: 80%;
+	height: 1px;
+	background-color: #09797a;
+	opacity: 0.3;
+	vertical-align: middle;
+}

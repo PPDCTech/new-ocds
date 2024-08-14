@@ -1,0 +1,346 @@
+#compare-project {
+	/* margin-top: 5%; */
+	margin-bottom: 10%;
+	padding: 5%;
+}
+
+.compare-project__banner {
+	background-image: url("../../assets/images/comparison-card.png");
+	background-size: 100% 100%;
+	background-repeat: "no-repeat" !important;
+	border-radius: 35px !important;
+	margin: 0 !important;
+	padding: 0 20px;
+}
+
+.compare-project__banner__left {
+	width: 55%;
+	padding: 4% 2%;
+}
+
+.compare-project__banner__left__heading {
+	font-size: 33px !important;
+	max-width: 550px;
+	line-height: 41px !important;
+	color: #ffffff;
+}
+
+.compare-project__banner__left__subheading {
+	max-width: 550px;
+	font-size: 18px !important;
+	line-height: 30px !important;
+	color: #ffffff;
+}
+
+.head__no__highlight {
+	background: #f0f1f2;
+}
+
+.filter__highlight {
+	background-color: #1ccccd !important;
+	color: #ffffff !important;
+}
+
+.filter__highlight__icon__up {
+	color: #09797a !important;
+}
+
+.filter__highlight__icon__down {
+	color: #ffffff !important;
+}
+
+.icon__no__highlight {
+	color: #d4d4d4;
+}
+
+.table__icon__container {
+	position: absolute;
+	top: 30%;
+	right: 0;
+}
+
+.table__head__icon {
+	position: relative;
+	width: 100%;
+}
+
+.icon__holder__top {
+	position: absolute;
+	right: 0;
+	top: 0;
+}
+
+.icon__holder__bottom {
+	position: absolute;
+	right: 0;
+	top: 10px;
+}
+
+.compare-project__table__row {
+	padding: 30px 10px !important;
+}
+
+.compare-project__cell a {
+	font-weight: 600 !important;
+	color: #0e0e2c !important;
+}
+
+.table__cell__wrapper {
+	display: flex;
+	width: 100%;
+	justify-content: space-between;
+}
+
+.table__text {
+	font-weight: 700 !important;
+	font-size: 16px !important;
+	line-height: 19px !important;
+	text-transform: capitalize !important;
+}
+
+.table__icon {
+	position: relative;
+	height: 100%;
+}
+
+.table__icon__up {
+	position: absolute;
+	top: 0;
+}
+
+.table__icon__down {
+	position: absolute;
+	bottom: 0 !important;
+}
+
+.compare-project__detail__head {
+	display: flex;
+	border-bottom: 0.5px solid #e0f0ee;
+}
+
+.compare-project__detail__head__left {
+	width: 50%;
+	padding: 1%;
+}
+
+.compare-project__detail__head__right {
+	width: 50%;
+	border-left: 0.5px solid #e0f0ee;
+	padding: 1%;
+}
+
+.card__aligner {
+	text-align: center;
+}
+
+.detail__card__container {
+	padding: 0 5%;
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-around;
+}
+
+.detail__card {
+	background: #f7fafc !important;
+	height: 160px;
+	position: relative;
+	margin: 20px;
+	flex: 1;
+}
+
+.detail__card__text {
+	margin: 15px auto 0 !important;
+	padding: 10px 50px 0 20px;
+	text-align: left;
+	font-weight: 700 !important;
+	text-transform: capitalize;
+	color: #09797a !important;
+}
+
+.detail__action__area {
+	position: absolute;
+	bottom: 5px;
+	right: 5px;
+}
+
+.detail__action__area > * {
+	color: #1ccccd !important;
+}
+
+.detail__head__right,
+.compare-project__detail__head__left {
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+}
+
+.compare-project__detail__head__left > * {
+	margin-left: 5px !important;
+	padding-top: 10px;
+}
+
+.detail__head__right > * {
+	margin-left: 10px !important;
+	padding-top: 10px;
+}
+
+.detail__recent__project {
+	font-size: medium !important;
+	font-weight: bold !important;
+	text-transform: capitalize;
+	color: #09797a;
+}
+
+.detail__recent__project__date {
+	color: #09797a;
+}
+
+.hover-state:hover {
+	cursor: pointer;
+}
+
+/* table styles */
+.table__header {
+	font-weight: 700 !important;
+	font-size: 30px !important;
+	line-height: 36px !important;
+	color: #09797a;
+}
+
+.compare-project__filter__buttons {
+	display: flex;
+	flex-direction: row;
+	justify-content: space-around;
+}
+
+.compare-project__filter__buttons > * {
+	font-size: 14px !important;
+	padding: 10px 30px !important;
+	color: #a9acb1 !important;
+	background-color: #f0f1f2 !important;
+	text-transform: capitalize !important;
+}
+
+.compare-project__filter__buttons > *:hover {
+	color: #09797a !important;
+}
+
+.compare-projects__table__head {
+	background: #f0f1f2;
+	padding: 16px !important;
+	max-width: 170px;
+	width: 170px;
+	position: relative;
+	font-size: 19px;
+}
+
+.MuiButtonBase-root.MuiPaginationItem-root.Mui-selected {
+	color: #fff;
+	background: #0e0e2c;
+}
+
+#quick__action
+	.MuiButtonBase-root.MuiButton-root.MuiButton-contained.MuiButton-containedPrimary {
+	padding: 14px;
+	background-color: #fff !important;
+	color: #09797a;
+	font-size: 14;
+	text-transform: capitalize;
+	width: 29vw;
+}
+
+#quick__action .MuiButtonBase-root.MuiButton-root.MuiButton-contained:hover {
+	background: #f0f1f2 !important;
+}
+
+/* Comparison Table Styles */
+.comparison__table__container {
+	display: flex;
+	margin: 2% 5%;
+	padding-top: 5px;
+}
+
+.comparison__table__head > * {
+	border-bottom: 0.5px solid #f9fafa;
+	padding: 0 5% 0 2%;
+	display: flex;
+	align-items: center;
+	text-align: justify;
+	width: 250px;
+	max-height: 100px;
+	height: 100px;
+	font-size: 20px;
+	font-weight: 500;
+}
+
+.comparison__table__body {
+	display: flex;
+	max-width: 1095px;
+	overflow: auto;
+}
+
+.comparison__table__item > * {
+	border-bottom: 0.5px solid #f9fafa;
+	padding: 15% 5% 0 5%;
+	text-align: left;
+	width: 250px;
+	max-height: 100px;
+	height: 100px;
+}
+
+.comparison__project__title {
+	color: #0e0e2c !important;
+	font-weight: 700 !important;
+	font-size: 16px !important;
+	line-height: 19px !important;
+	text-transform: capitalize !important;
+}
+
+.comparison__project__highlight {
+	color: #09797a;
+	font-size: 11px;
+	line-height: 23px;
+}
+
+.comparison__table__target__item {
+	background-color: #e0f0ee !important;
+	mix-blend-mode: normal !important;
+	box-shadow: 5px 10px 30px rgba(0, 0, 0, 0.1) !important;
+	border-radius: 10px !important;
+	height: 100%;
+	position: relative;
+}
+
+.comparison__table__target__item > * {
+	border-bottom: none;
+	padding: 15% 5% 0 5%;
+	text-align: left;
+	width: 250px;
+	max-height: 100px;
+	height: 100px;
+}
+
+.not__the__target {
+	display: none;
+}
+
+.comparison__target__project__heading {
+	position: absolute;
+	top: -38px;
+}
+
+.comparison__target__project__heading > * {
+	font-weight: 600 !important;
+	font-size: 20px !important;
+	color: #09797a;
+	line-height: 34px !important;
+}
+
+.no-table-border > * {
+	border: none !important;
+	/* padding: 15% 5% 0 5%; */
+	text-align: left;
+	width: 250px;
+	max-height: 100px;
+	height: 100px;
+}
